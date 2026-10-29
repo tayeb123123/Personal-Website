@@ -2,6 +2,8 @@
 
 Personal portfolio with a space, acidwave, and ASCII aesthetic. Built with plain HTML, CSS, and JavaScript.
 
+**Live website:** [tayeb-ten.vercel.app](https://tayeb-ten.vercel.app/)
+
 ## Features
 
 - Animated ASCII planet with pointer interaction, warp mode, and motion controls
@@ -21,7 +23,7 @@ Then open http://localhost:8000.
 
 ## Hosting
 
-This is a standalone static site. Deploy the repository root to Vercel or another static host. No build step, environment variables, API keys, or ChatGPT login are required by the application.
+The live site is hosted on [Vercel](https://tayeb-ten.vercel.app/). This is a standalone static site deployed from the repository root. No build step, environment variables, API keys, or ChatGPT login are required by the application.
 
 ## Files
 
